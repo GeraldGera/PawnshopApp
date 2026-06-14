@@ -1,0 +1,14 @@
+build/
+cmake-build-*/
+.qt/
+.qtc_clangd/
+CMakeUserPresets.json
+*.user
+*.autosave
+config.ini
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.o
