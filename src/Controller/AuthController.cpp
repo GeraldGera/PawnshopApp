@@ -71,3 +71,4 @@ bool AuthController::passwordIsStrong(const QString& password) const
 {
     return PasswordUtils::isStrongPassword(password);
 }
+// Исправление ошибки при передаче пустого пароля
