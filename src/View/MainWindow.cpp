@@ -384,3 +384,4 @@ QVector<FieldMeta> MainWindow::saleFields() const
         baseField(QStringLiteral("sale_date"), QStringLiteral("Дата"), FieldType::Date),
     };
 }
+// Привязка сигналов закрытия окон
